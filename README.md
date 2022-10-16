@@ -1,16 +1,16 @@
 **CONTEXT**
 
-Since I've been working on data science, I was exposed to problem-solving strategies so as to move from real problems to real solutions. Somehow, this was a natural complement to one of the things I'm most passionate about: the way we perceive our surrounding world and how our mind works.
+Since I've been working on data science, I was exposed to **problem-solving strategies** so as to move from real problems to real solutions. Somehow, this was a natural complement to one of the things I'm most passionate about: the way we perceive our surrounding world and how our mind works.
 
-After reading many books, attending many courses and doing a bunch of data science projects, I felt the need to define how I should move from real-world problems to real-world solutions in a structured way.
+After reading many books, attending many courses and doing a bunch of data science projects, I felt the need to define how I should **move from real-world problems to real-world solutions in a structured way**.
 
-So, the purpose of this brief material is to share my initial summary of how to structure a problem-solving strategy. I emphasize that it is just my initial MVP about this subject. In other words, it is not supposed to be a definitive solution, not even to replace any already tested framework! 
+So, the purpose of **this brief material** is to share my **initial summary** of how to **structure a problem-solving strategy**. I emphasize that it is just my initial MVP about this subject. In other words, it is not supposed to be a definitive solution, not even to replace any already tested framework! 
 
-In fact, this is just an initial attempt to structure problem-solving strategies holistically, taking into account the planning stage as well as general guidelines to monitor the project and product development so as to achieve meaningful business results consistently, especially through data science tools. 
+In fact, this is just an initial attempt to structure problem-solving strategies holistically, taking into account the planning stage as well as general guidelines to monitor the project and product development so as to **achieve meaningful business results consistently**, especially through data science tools. 
 
-This initial template must evolve over time, especially with learning from practical experience, to help solve the problems of the ever-changing world!
+**This initial template must evolve over time**, especially with learning from practical experience, to help solve the problems of the ever-changing world!
 
-As an important note, I didn't create any of these problem-solving tactics! I'm just a curious guy that loves to study and wants to improve my professional solutions as a data scientist. So, please take at least a brief look at the resources section to understand where this information came from.
+As an important note, **I didn't create any of these problem-solving tactics!** I'm just a curious guy that loves to study and wants to improve my professional solutions as a data scientist. So, please take at least a brief **look** at **the resources section** to understand where this information came from.
 
 <br> 
 
@@ -24,7 +24,7 @@ As an important note, I didn't create any of these problem-solving tactics! I'm 
 
 **MAIN REFERENCES**
 
-Here is a list of resources, books and courses, that were important to make this compilation possible. Note that these resources are not in order of importance; they are more or less in the order I had first contact with the given resource. Besides, I may even forget some specific resources once the process of compiling all this information was non-linear, non-centralized and have evolved throughout time.
+Here is a list of resources, books and courses, that were important to make this compilation possible. Note that *these resources are not in order of importance*; they are more or less in the order I had first contact with the given resource. Besides, I may even forget some specific resources once the process of compiling all this information was non-linear, non-centralized and have evolved throughout time.
 
 * [Lateral Thinking: Creativity Step by Step by Edward de Bono](https://www.amazon.com.br/Lateral-Thinking-Creativity-Step-English-ebook/dp/B003V1WTLI/ref=sr_1_2?qid=1665854074&refinements=p_27%3AEdward+de+Bono&s=digital-text&sr=1-2&text=Edward+de+Bono)
 
@@ -40,7 +40,7 @@ Here is a list of resources, books and courses, that were important to make this
 
 * [Le Wagon](https://www.lewagon.com/data-science-course)
 
-* [Become a Product Manager | Learn the Skills & Get the Job by Cole Mercer & Evan Kimbrell](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
+* [Become a Product Manager - Learn the Skills & Get the Job by Cole Mercer & Evan Kimbrell](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
 
 * [Advanced Product Management: Vision, Strategy & Metrics by Cole Mercer & Evan Kimbrell](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/)
 
