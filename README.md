@@ -48,7 +48,7 @@ Here is a list of resources, books and courses, that were important to make this
 
 **MY CONTACT**
 
-Feel free to contact me in case of questions, suggestions, discussions and any other reason you think is relevant 😉
+Feel free to contact me in case of questions, suggestions, discussions and any other reason you think is relevant.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
 
