@@ -1,5 +1,6 @@
 **CONTEXT**
 
+
 Since I've been working on data science, I was exposed to **problem-solving strategies** so as to move from real problems to real solutions. Somehow, this was a natural complement to one of the things I'm most passionate about: the way we perceive our surrounding world and how our mind works.
 
 After reading many books, attending many courses and doing a bunch of data science projects, I felt the need to define how I should **move from real-world problems to real-world solutions in a structured way**.
