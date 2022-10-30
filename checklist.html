@@ -21,6 +21,10 @@
             border-radius: 5px;
         }
 
+        h1 {
+            text-align: center;
+        }
+
         h2 {
             text-align: center;
         }
@@ -52,6 +56,23 @@
             color: #77B255;
             text-align: center;
         }
+        .shaded_neon_anchor {
+                background-color: #000;
+                border: .5px solid #77B255;
+                border-radius: 10px;
+                display: inline-block; 
+                color: #fff;
+                padding: 8px;
+                box-shadow: 0 0 5px 0 #77B255,
+                            0 0 5px 0 #77B255,
+                            0 0 5px 0 #77B255 inset;
+        }
+
+        .split_div {
+                flex:50%; 
+                text-align:center;
+        }
+
 
     </style>
 
@@ -59,9 +80,18 @@
 
 <body>
     <hr>
+    <div style="display:flex;">
+        <div class=split_div>
+            <a href="./README.md"><button class=shaded_neon_anchor>Project Overview</button></a>    
+        </div>
+        <div class=split_div>      
+            <a href="./image.html"><button class=shaded_neon_anchor>Problem Solving Mind Map</button></a>
+        </div>
+    </div>
+    <hr>
     <header>
-        <h1><strong>Problem Solving Strategy</strong></h1>
-        <h3>Checklist</h3>    
+        <h2><strong><i>Problem Solving Strategy</i></strong></h2>
+        <h1>Checkpoints</h1>    
         <a href="" hidden>Click here to open in  google docs</a>
     </header>
     <hr>
@@ -698,9 +728,9 @@
         <li>✅ <span contenteditable="true">&emsp;Answer ...&emsp;</span></li>
     </ul>
     <hr>
-    <div style="text-align: center;">
-        <button onclick="window.print();">Print page to save answers ;)</button>
-    </div>
+        <div style="text-align: center;">
+            <button class=shaded_neon_anchor onclick="window.print();">Print page to save answers ;)</button>
+        </div>
     <hr>
     <p><strong>MAIN REFERENCES GUIDE</strong></p>
 
@@ -728,7 +758,7 @@
             Product Management: Vision, Strategy &amp; Metrics by Cole Mercer &amp; Evan Kimbrell</a></i></li>
         </ul>
 
-<br>
+<hr >
 
 </body>
 </html>

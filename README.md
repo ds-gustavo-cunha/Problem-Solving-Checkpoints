@@ -21,7 +21,7 @@ As an important note, **I didn't create any of these problem-solving tactics!** 
 
 🎨 [Problem Solving Mind Map](image.html)
 
-✅ [Problem Solving Checklist](checklist.html)
+✅ [Problem Solving Checkpoints](checklist.html)
 
 <br>
 
